@@ -24,7 +24,7 @@ Like for a luck
 
 </p>
 
-<a href="https://chat.whatsapp.com/H2dvuYaI3SbKURzstwl7Wn"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/FtR26ws4Ody3QGdSxq7CGC"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
  
 
@@ -84,7 +84,7 @@ after start it you need to scan the qr
 
 - [WHATSAPP](http://wa.me/919747636994)
 
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/BSEY5YhA9SQJOJboxQVbWD)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/FtR26ws4Ody3QGdSxq7CGC)
 
 ## 🙏 Special Thanks to
 
