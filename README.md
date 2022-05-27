@@ -38,9 +38,9 @@ Like for a luck
 
 ```bash
 
-> git clone https://github.com/HARISGANZ/Hanz
+> git clone https://github.com/problems-arelifepartner/Devil-bot
 
-> cd Hanz
+> cd Devil-bot
 
 > npm i
 
