@@ -18,7 +18,7 @@ Like for a luck
 
    <a href="https://github.com/justpiple/whatsapp-bot/commit-activity" target="_blank">
 
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
+    
 
   </a>
 
