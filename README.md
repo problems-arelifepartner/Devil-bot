@@ -12,7 +12,7 @@ Like for a luck
 
  <p>
 
-  <img src="https://img.shields.io/badge/npm-v7.20.3-green.svg" />
+  
 
   <img src="https://img.shields.io/badge/node-%3E=16.6.1-darkgreen.svg" />
 
