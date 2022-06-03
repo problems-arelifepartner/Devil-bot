@@ -16,7 +16,7 @@ Like for a luck
 
   <img src="https://img.shields.io/badge/node-%3E=16.6.1-darkgreen.svg" />
 
-   <a href="https://github.com/justpiple/whatsapp-bot/commit-activity" target="_blank">
+   <a href="https://github.com/problems-arelifepartner/Devil-bot/commit-activity" target="_blank">
 
     
 
@@ -32,7 +32,7 @@ Like for a luck
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
 
-[![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
+[![Run on Repl.it](https://repl.it/badge/github/[(problems-arelifepartner/Devil-bot)](https://repl.it/github/problems-arelifepartner/Devil-bot)]
 
 ### Install ⬇️
 
