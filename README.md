@@ -32,7 +32,7 @@ Like for a luck
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
 
-[![Run on Repl.it](https://repl.it/badge/github/(problems-arelifepartner/Devil-bot)(https://repl.it/github/problems-arelifepartner/Devil-bot)]
+[![Run on Repl.it][(https://repl.it/badge/github/(problems-arelifepartner/Devil-bot)(https://repl.it/github/problems-arelifepartner/Devil-bot)]
 
 ### Install ⬇️
 
